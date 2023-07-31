@@ -1,16 +1,39 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://your-image-url.com/your-image.gif" width="100"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?fletcher-alderton&style=flat-square&color=blue" alt="">
+</p>
 
-<!--
-**Fletcher-Alderton/Fletcher-Alderton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there, I'm Fletcher! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://your-image-url.com/your-image.gif" width="600" height="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: &nbsp;About Me :
+
+I'm an 18-year-old Frontend Developer from Australia who loves tech and good design. Currently, I'm mainly working with Next.js, React, Tailwind CSS, JavaScript, HTML, and CSS. I'm also experienced with Docker and interested in learning React Native and Terraform.
+
+- 🌱 I’m currently exploring React Native and Terraform.
+- ⚡ In my free time, I work on my personal website [FletcherAlderton.com](https://FletcherAlderton.com) and contribute to open-source projects.
+
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+  <!-- Add your favorite icons for the languages and tools you use -->
+</p>
+
+---
+
+### 🔥 &nbsp; GitHub Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fletcher-alderton&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fletcher-alderton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
