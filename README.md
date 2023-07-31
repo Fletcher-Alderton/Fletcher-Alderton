@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.gif" width="100"/>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?fletcher-alderton&style=flat-square&color=blue" alt="">
 </p>
 
@@ -16,10 +10,12 @@
 
 ### :computer: &nbsp;About Me :
 
-I'm an 18-year-old Frontend Developer from Australia who loves tech and good design. Currently, I'm mainly working with Next.js, React, Tailwind CSS, JavaScript, HTML, and CSS. I'm also experienced with Docker and interested in learning React Native and Terraform.
+I'm an 18-year-old Frontend Developer from Australia who loves tech and good design. Currently
+I'm mainly working with Next.js, React, Tailwind CSS, JavaScript, HTML, and CSS. 
+I'm also experienced with Docker and interested in learning React Native and Terraform.
 
 - 🌱 I’m currently exploring React Native and Terraform.
-- ⚡ In my free time, I work on my personal website [FletcherAlderton.com](https://FletcherAlderton.com) and contribute to open-source projects.
+- ⚡ In my free time, I work on my personal website [fletcheralderton.com](https://fletcheralderton.com) and contribute to open-source projects.
 
 ---
 
