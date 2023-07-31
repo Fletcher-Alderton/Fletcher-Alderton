@@ -37,7 +37,7 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and good des
 ### 🛠 &nbsp;Languages and Tools I to want use:
 
 <p>
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp; />
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </p>
 
 ---
