@@ -10,7 +10,8 @@
 I'm an 18-year-old Frontend Developer from Australia who loves tech and good design.
 
 
-- ⚡ In my free time, I work on what every new website idea if have or my personal website [fletcheralderton.com](https://fletcheralderton.com) and contribute to open-source projects.
+- ⚡ In my free time, I work on what ever new website idea I have.
+- ⚡ Or i work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
 
 ---
 
@@ -37,7 +38,6 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and good des
 
 <p>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp; />
-  
 </p>
 
 ---
