@@ -4,9 +4,6 @@
 
 <h1 align="center">Hey there, I'm Fletcher! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center">
-  <img src="https://your-image-url.com/your-image.gif" width="600" height="300"/>
-</p>
 
 ### :computer: &nbsp;About Me :
 
@@ -17,9 +14,7 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and good des
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
-
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools I use:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,11 +30,15 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and good des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-           title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </p>
 
+### 🛠 &nbsp;Languages and Tools I to want use:
+
+<p>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp; />
+  
+</p>
 
 ---
 
