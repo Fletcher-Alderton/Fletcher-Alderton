@@ -21,7 +21,7 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and good des
 
 ### 🛠 &nbsp;Languages and Tools I to learn:
 
-[![Not My Skills](https://skillicons.dev/icons?i=terraform,mysql,graphql,kubernetes,threejs,ts,python,tauri,svelte)](https://skillicons.dev)
+[![Not My Skills](https://skillicons.dev/icons?i=mysql,graphql,kubernetes,threejs,ts,python,tauri,svelte)](https://skillicons.dev)
 
 ---
 
