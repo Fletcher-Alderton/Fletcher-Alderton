@@ -9,9 +9,11 @@
 
 I'm an 18-year-old Frontend Developer from Australia who loves tech and striking, minimal design.
 
-
+- ✨ Creating bugs since 2022
+- 📚 I'm currently learning php 
 - ⚡ In my free time, I work on random projects that I think are intresting.
 - ⚡ Or I work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
+
 
 ---
 
