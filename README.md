@@ -7,11 +7,11 @@
 
 ### :computer: &nbsp;About Me :
 
-I'm an 18-year-old Frontend Developer from Australia who loves tech and good design.
+I'm an 18-year-old Frontend Developer from Australia who loves tech and striking, minimal design.
 
 
-- ⚡ In my free time, I work on what ever new website idea I have.
-- ⚡ Or i work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
+- ⚡ In my free time, I work on random projucts that I think are intresting.
+- ⚡ Or I work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
 
 ---
 
