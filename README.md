@@ -10,7 +10,7 @@
 I'm an 18-year-old Frontend Developer from Australia who loves tech and striking, minimal design.
 
 
-- ⚡ In my free time, I work on random projucts that I think are intresting.
+- ⚡ In my free time, I work on random projects that I think are intresting.
 - ⚡ Or I work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
 
 ---
