@@ -10,7 +10,7 @@
 I'm an 18-year-old Frontend Developer from Australia who loves tech and striking, minimal design.
 
 - ✨ Creating bugs since 2022
-- 📚 I'm currently learning php 
+- 📚 I'm currently learning php :vomiting_face:
 - ⚡ In my free time, I work on random projects that I think are intresting.
 - ⚡ Or I work on my personal website [fletcheralderton.com](https://fletcheralderton.com)
 
@@ -21,7 +21,7 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and striking
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,nodejs,docker,github,linux,nextjs,tailwind,vscode,cloudflare,supabase,vercel)](https://skillicons.dev)
 
-### 🛠 &nbsp;Languages and Tools I to learn:
+### 🛠 &nbsp;Languages and Tools I want to learn:
 
 [![Not My Skills](https://skillicons.dev/icons?i=mysql,graphql,kubernetes,threejs,ts,python,tauri,svelte)](https://skillicons.dev)
 
