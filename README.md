@@ -19,11 +19,20 @@ I'm an 18-year-old Frontend Developer from Australia who loves tech and striking
 
 ### 🛠 &nbsp;Languages and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,materialui,nodejs,docker,github,linux,nextjs,tailwind,vscode,cloudflare,supabase,vercel)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,materialui,nodejs,docker,github,linux,nextjs,tailwind,vscode,cloudflare,supabase,vercel" />
+  </a>
+</p>
+
 
 ### 🛠 &nbsp;Languages and Tools I want to learn:
 
-[![Not My Skills](https://skillicons.dev/icons?i=mysql,graphql,kubernetes,threejs,ts,python,tauri,svelte)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,graphql,kubernetes,threejs,ts,python,tauri,svelte" />
+  </a>
+</p>
 
 ---
 
