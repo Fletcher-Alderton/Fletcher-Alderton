@@ -7,7 +7,7 @@
 
 ### :computer: &nbsp;About Me :
 
-I'm an 18-year-old Frontend Developer from Australia who loves tech and striking, minimal design.
+I'm an 18-year-old Frontend Developer from Australia who loves tech, design and selfhosting.
 
 - ✨ Creating bugs since 2022
 - 📚 I'm currently learning php :vomiting_face: at school
