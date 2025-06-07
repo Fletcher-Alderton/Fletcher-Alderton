@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?fletcher-alderton&style=flat-square&color=blue" alt="">
-</p>
-
 <h1 align="center">Hey there, I'm Fletcher! <img src="https://mostlytech.xyz/gifs/hello-dog.webp" width="80"></h1>
 
 
