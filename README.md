@@ -3,7 +3,7 @@
 
 ### :computer: &nbsp;About Me :
 
-I'm an 20-year-old Developer from Australia who loves tech, design and selfhosting.
+I'm an 21-year-old Developer from Australia who loves tech, design and selfhosting.
 
 - ✨ Creating bugs since 2022
 - 📚 I'm currently studying computer science
